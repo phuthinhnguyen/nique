@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+    height: auto;
+}
+.font{
+    font-family: "Dosis";
+}
+.content-wrap{
+    max-width: 90%;
+    padding: 20px;
+    margin: auto;
+}
+.content{
+
+}
+.content-left-content{
+    background-image: url("pexels-rachel-claire-45773971.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.content-left-content-nav{
+    
+}
